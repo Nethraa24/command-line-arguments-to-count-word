@@ -6,17 +6,17 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-
+import sys
 ### Step 2: 
- 
+Open file using open().
 ### Step 3: 
-
+Use for loop
 ### Step 4:  
-
+Use len to count number of words.
 ### Step 5: 
-
+Give print.
 ### Step 6: 
-
+End of the program
 ## PROGRAM:
 ```python
 import sys
