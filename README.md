@@ -19,18 +19,19 @@ Give print.
 End of the program
 ## PROGRAM:
 ```python
+##ProgramDeveloped by:J.Nethraa
+  Reference no.: 22006789
 import sys
 count= 0
 with open(sys.argv[1],'r') as f1:
     for line in f1:
         word= line.split()
         count += len(word)
-print("word count in file = ",count)
+print("word count in file = ",count)
 ```
 
 ### OUTPUT:
-![image](https://user-images.githubusercontent.com/121215786/214854328-7457e8f4-7752-4b58-bb13-a570c4ef0ae9.png)
-
+![image](https://user-images.githubusercontent.com/121215786/215333518-635ba738-6079-4534-b487-7c2b562f2944.png)
 
 
 
